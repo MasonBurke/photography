@@ -4,3 +4,13 @@
 .sidenav{
     background-color: #cad0e3
 }
+.brand-logo{
+    font-family: monospace;
+}
+h5{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.m3{
+    margin-left: 555px
+}
