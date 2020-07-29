@@ -14,3 +14,20 @@ h5{
 .m3{
     margin-left: 555px
 }
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  .page-footer{
+    background-color: #767b8a
+  }
+
+  .grey-text, ul {
+      text-align: center;
+  }
