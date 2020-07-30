@@ -35,7 +35,13 @@ body {
       text-align: center;
   }
   .homeTitle{
-      font-family: monospace;
-      font-weight: lighter;
-      font-size: xx-large;
+       font-family: 'Open Sans', sans-serif;
+      color: #555;
+      text-decoration: none;
+      text-transform: uppercase;
+      font-size: 50px;
+      letter-spacing: -3px;
+      line-height: 1;
+      text-shadow: #EDEDED 3px 2px 0;
+      position: relative;
   }
