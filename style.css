@@ -31,3 +31,11 @@ body {
   .grey-text, ul {
       text-align: center;
   }
+  .centerText{
+      text-align: center;
+  }
+  .homeTitle{
+      font-family: monospace;
+      font-weight: lighter;
+      font-size: xx-large;
+  }
